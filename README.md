@@ -11,4 +11,4 @@
 
 ## 下载
 
-- [V1.0.1](./语落安装包-V1.0.1.exe)，最新测试版，欢迎体验。
+- [V1.0.1](https://github.com/NeroSong/yuluo-app/releases/download/V1/yuluo-installer-Win-x64-V1.0.1.exe)  最新测试版，欢迎体验。
